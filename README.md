@@ -4,5 +4,7 @@ API AUTOMATION USING JAVASCRIPT AND JEST
 
 STEPS TO EXECUTE:
 
-npm i
-npm run test
+1. npm i 
+
+
+2. npm run test
